@@ -12,4 +12,4 @@ La page d'accueil est en fait un leurre qui cache la véritable nature de celui 
     Trouver et cliquer sur le copyright ...
     Sur la page intermédiaire, n'importe quel mot de passe est accepté mais il va falloir appuyer sur un bouton pour rentrer!
 
-###### Lien du projet: [Lien du projet](https://jerkodeur.github.io/DrakeRporter/)
+###### [voir le projet](https://jerkodeur.github.io/DrakeRporter/)
