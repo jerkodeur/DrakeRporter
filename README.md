@@ -12,10 +12,10 @@ Ces goûts sont pour le moins "étranges" ; mais tout ceci n'est en fin de compt
 
 La page d'accueil est en fait un leurre qui cache la véritable nature de celui qui, au final, se révèlera être Dark Reporter, parti silloner le monde afin de proposer tout un tas de produits bien peu recommandables et illicites..
 
-* Un petit indice pour entrer du coté obscur du site...  
+#### Un petit indice pour entrer du coté obscur du site...  
     
-    Trouver et cliquer sur le copyright ...
-    Sur la page intermédiaire, n'importe quel mot de passe est accepté mais il va falloir appuyer sur un bouton pour rentrer!
+>Trouver et cliquer sur le copyright ...
+>Sur la page intermédiaire, n'importe quel mot de passe est accepté mais il va falloir appuyer sur un bouton pour rentrer!
     
 ## A propos
 
