@@ -1,7 +1,7 @@
 # DrakeRporter
 
 ![](https://media-exp1.licdn.com/dms/image/C4E2DAQHUrWVAcW5UKA/profile-treasury-image-shrink_480_480/0?e=1590930000&v=beta&t=NnqmF2maRcSRVkoQ4z8GOGyzbzu3SFC6sHyZs-JyDBc)  
-### [Voir le projet](https://jerkodeur.github.io/DrakeRporter/)
+### [Voir le projet](https://jerkodeur.github.io/DrakeRporter---A-Wild-Code-School-Project/)
 
 ## Le premier projet réalisé en équipe à la Wild Code School
 
