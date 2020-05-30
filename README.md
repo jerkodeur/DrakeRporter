@@ -19,8 +19,6 @@ La page d'accueil est en fait un leurre qui cache la véritable nature de celui 
     
 ## A propos
 
-Retrouvez-moi sur Linkedin: [Jerko](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/)  
-Autres participants du projet:  
-[Claire](https://www.linkedin.com/in/clairekodia/), [Julien](https://www.linkedin.com/in/julienrousseau-webdev/), [Stéphane](https://www.linkedin.com/in/st%C3%A9phane-bour/), [Paracelse](https://www.linkedin.com/in/paracelse-itoua/)
+Retrouvez-nous sur Linkedin: [Claire](https://www.linkedin.com/in/clairekodia/), [Julien](https://www.linkedin.com/in/julienrousseau-webdev/), [Stéphane](https://www.linkedin.com/in/st%C3%A9phane-bour/), [Paracelse](https://www.linkedin.com/in/paracelse-itoua/), [Jerko(moi)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poti%C3%A9/) 
 
 
